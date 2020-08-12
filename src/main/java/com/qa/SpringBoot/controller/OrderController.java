@@ -43,7 +43,7 @@ public class OrderController {
 	@Autowired
 	StoreinfoServices  sis;
 	
-//	不完善
+//	不完善  不完美
 	@RequestMapping("/addorderinfo")
 	public void getOrdersinfo(Orderinfo info){
 		
